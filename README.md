@@ -1,5 +1,5 @@
-# Analysis sentiment
-- É um modelo de Deep Learning onde utiliza o dataset twitter sentiment analysis para fazer predicoes de sentimentos dos textos que estão em ingles então deve ser enviado em ingles os textos.
+# Sentiment analysis
+- Sentiment analysis is a deep learning project that uses the Twitter sentiment analysis dataset to predict the sentiment of comments.
 
-## Tecnologias usadas
+## Technologies used
 - Python, Tensorflow, Spacy, Pandas, Numpy, Seaborn, Matplotlib, regex e String
