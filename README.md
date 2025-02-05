@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentiment Analysis
 
 This is a deep learning project that performs sentiment analysis on Twitter comments using the **Twitter Sentiment Analysis Dataset**. The model is trained to predict whether the sentiment of a given text is **positive**, **negative**, or **neutral**.
 
